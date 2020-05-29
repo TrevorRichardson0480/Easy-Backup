@@ -1,0 +1,8 @@
+F:\New Folder
+F:\Backup
+C:\Users\trevo\Documents
+C:\Users\trevo\OneDrive\Documents
+C:\Users\trevo\OneDrive\Pictures
+C:\Users\trevo\OneDrive\School
+DESTINATION:
+G:\Backup

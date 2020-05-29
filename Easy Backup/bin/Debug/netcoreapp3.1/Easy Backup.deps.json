@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Easy Backup/1.0.0": {
+        "runtime": {
+          "Easy Backup.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Easy Backup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\bin\Debug\netcoreapp3.1\Easy Backup.exe
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\bin\Debug\netcoreapp3.1\Easy Backup.deps.json
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\bin\Debug\netcoreapp3.1\Easy Backup.runtimeconfig.json
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\bin\Debug\netcoreapp3.1\Easy Backup.runtimeconfig.dev.json
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\bin\Debug\netcoreapp3.1\Easy Backup.dll
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\bin\Debug\netcoreapp3.1\Easy Backup.pdb
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.csprojAssemblyReference.cache
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.AssemblyInfoInputs.cache
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.AssemblyInfo.cs
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.csproj.CoreCompileInputs.cache
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.dll
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.pdb
+C:\Users\trevo\Documents\Projects\PersonalProjects\Easy Backup\Easy Backup\Easy Backup\obj\Debug\netcoreapp3.1\Easy Backup.genruntimeconfig.cache
